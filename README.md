@@ -9,4 +9,4 @@ From this dataset, we were able to organize and clean the data to make insightfu
 
 https://colab.research.google.com/github/JDonahue44/Food_Sales_Predictions/blob/main/Food_Sales_Predictions%20-%20Week%205.ipynb#scrollTo=A5BpVSOJ8k6I
 
-Model - https://colab.research.google.com/drive/1gzMlrHb1BR3Vi7PvysoFL_4kEo_E2Bat?usp=sharing
+Model - Final_Project_Regression_Tree 2.0.ipynb
